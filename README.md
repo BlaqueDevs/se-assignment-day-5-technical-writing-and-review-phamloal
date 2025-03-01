@@ -60,6 +60,6 @@ Who is it for, e.g, target audience?
 Key benefits and features.
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
-Use a one-sentence tagline summarizing the product.
-List key features in bullet points.
-Include a short "How it helps" section.
+1. Use a one-sentence tagline summarizing the product.
+2. List key features in bullet points.
+3. Include a short "How it helps" section.
